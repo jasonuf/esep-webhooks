@@ -15,3 +15,4 @@
 /Users/jasonli/code/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.pdb
 /Users/jasonli/code/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.genruntimeconfig.cache
 /Users/jasonli/code/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/ref/EsepWebhook.dll
+/Users/jasonli/code/esep-webhooks/EsepWebhook/obj/Release/net10.0/linux-x64/EsepWebhook.sourcelink.json
